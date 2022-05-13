@@ -1,0 +1,25 @@
+ 
+
+// constants won't change. They're used here to set pin numbers:
+const int sensorDireita = 2;     // the number of the pushbutton pin
+const int sensorEsquerda = 3;  
+
+void setup() {
+   Serial.begin(9600);
+   // initialize the pushbutton pin as an input:
+  pinMode(sensorDireita, INPUT);
+  pinMode(sensorEsquerda, INPUT);
+}
+
+void loop() {
+  // read the state of the pushbutton value:
+ int sensorD = digitalRead(sensorDireita);
+ int sensorE = digitalRead(sensorEsquerda);
+
+  Serial.print("Sensor Direita: ");
+ Serial.print(sensorD);
+  Serial.print(" Sensor Esquerda: ");
+ Serial.println(sensorE);
+
+ 
+}
