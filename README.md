@@ -1,12 +1,12 @@
 # Robotecson
 Projeto de um robô de sumo 
+
 Evento de conclusão realizado na ETEC dia 30 de junho de 2022
 
 Montagem e programação de um robô de sumo na Etec Irmã Agostina.
-Foi utilizado placa arduino.
-Linguagem: C++
-Matéria: Sistemas embarcados.
-ETEC Irmã Agostina
+- Foi utilizado placa arduino.
+- Linguagem: C++
+- Matéria: Sistemas embarcados.
 
 ## Montagem
 ![RoboSumo](https://user-images.githubusercontent.com/72561919/178515118-a7cab8f0-a37a-40ee-99d2-cff00d68c651.jpg)
