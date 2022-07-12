@@ -1,9 +1,10 @@
 # Robotecson
 Projeto de um robô de sumo 
 
-Evento de conclusão realizado na ETEC dia 30 de junho de 2022
+Evento de conclusão realizado na ETEC Irmã Agostina dia 30 de junho de 2022
 
-Montagem e programação de um robô de sumo na Etec Irmã Agostina.
+- Objetivo: montagem e programação de um robô de sumo para lutar com outra equipe.
+- Nome do robô: Robotecson
 - Foi utilizado placa arduino.
 - Linguagem: C++
 - Matéria: Sistemas embarcados.
