@@ -9,7 +9,8 @@ Evento de conclusão realizado na ETEC Irmã Agostina dia 30 de junho de 2022
 - Linguagem: C++
 - Matéria: Sistemas embarcados.
 
-Para mais informações: https://www.facebook.com/galpao4ef
+Para mais informações: https://fb.watch/jftGBGzHus/
+
 
 ## Montagem
 ![RoboSumo](https://user-images.githubusercontent.com/72561919/178515118-a7cab8f0-a37a-40ee-99d2-cff00d68c651.jpg)
